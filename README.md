@@ -60,4 +60,4 @@ Fixed bug preventing automatic login to specific ticket URLs;
 Introduction of dynamic tag `{$debug}` which displays the result of script execution and diagnostic information in ticket and invoice emails.
 
 **Developed by Mauricio Gofas
-https://gofas.net/whmcs/whmcs-auto-login/
+https://gofas.net/whmcs/whmcs-auto-login/**
