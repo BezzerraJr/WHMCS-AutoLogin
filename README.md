@@ -13,7 +13,7 @@ You can also choose to use the mergetag `{$login_link}` in the invoice and ticke
 
 ## Interface	
 
-https://s3.amazonaws.com/uploads.gofas.me/wp-content/uploads/2021/01/28003009/gofas_auto_login_para_whmcs.png
+https://www.awesomescreenshot.com/image/19020120?key=8ca283228fc4ace12d58421b4be5bffd
 
 ## Requirements
 PHP 7.1+
