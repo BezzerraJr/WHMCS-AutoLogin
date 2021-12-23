@@ -59,5 +59,5 @@ Compatibility with WHMCS 7.1.2 and adaptation to the guidelines of the new devel
 Fixed bug preventing automatic login to specific ticket URLs;
 Introduction of dynamic tag `{$debug}` which displays the result of script execution and diagnostic information in ticket and invoice emails.
 
-**Desenvolvido por Mauricio Gofas
+**Developed by Mauricio Gofas
 https://gofas.net/whmcs/whmcs-auto-login/
